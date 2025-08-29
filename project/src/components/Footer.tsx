@@ -207,7 +207,7 @@ const Footer = () => {
       <div className="border-t border-gray-800 py-4">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-sm text-center text-gray-400">
-            Build by LAPCOMSS | +91 89392 20746 | 
+            Build by LAPCOMSS | +91 89392 20746 |  
             <a href="https://maps.app.goo.gl/FhoLtAJQvyR7GKic8" target="_blank" rel="noopener noreferrer" className="underline hover:text-white transition-colors duration-200">
               View on Google Maps
             </a>
